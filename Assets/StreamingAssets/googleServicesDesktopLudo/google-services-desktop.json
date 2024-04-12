@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "880178331368-sab6j5h8l9ir8k04igjblqqu1u63k8rr.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSJTGxNli6JCy22BRzwZqON4OWWBSqcuw"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:880178331368:ios:30b06dacbf4bde0aa7135d", 
+        "android_client_info": {
+          "package_name": "com.sklash.ludo1"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "sklash-ludo.appspot.com", 
+    "project_id": "sklash-ludo", 
+    "firebase_url": "https://sklash-ludo-default-rtdb.firebaseio.com", 
+    "project_number": "880178331368"
+  }
+}

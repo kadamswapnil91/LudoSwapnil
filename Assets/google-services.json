@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "325315330934",
+    "firebase_url": "https://sklash-ludo-default-rtdb.firebaseio.com",
+    "project_id": "sklash-ludo-pro",
+    "storage_bucket": "sklash-ludo-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325315330934:android:ca84524b118637e187b057",
+        "android_client_info": {
+          "package_name": "com.sklash.ludopro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325315330934-8qab4k1ho62oddmb7graij1uej3a2fvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlzSv3sLtbOqDg8IWkG-qDleYuQv3yfhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325315330934-8qab4k1ho62oddmb7graij1uej3a2fvc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325315330934-u4pc49kh6pq2iqse04b6gtnus8vdcf1e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sklash.ludopro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

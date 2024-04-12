@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://sklash-ludo-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">325315330934</string>
+  <string name="google_storage_bucket" translatable="false">sklash-ludo-pro.appspot.com</string>
+  <string name="project_id" translatable="false">sklash-ludo-pro</string>
+  <string name="google_api_key" translatable="false">AIzaSyBlzSv3sLtbOqDg8IWkG-qDleYuQv3yfhc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBlzSv3sLtbOqDg8IWkG-qDleYuQv3yfhc</string>
+  <string name="google_app_id" translatable="false">1:325315330934:android:ca84524b118637e187b057</string>
+  <string name="default_web_client_id" translatable="false">325315330934-8qab4k1ho62oddmb7graij1uej3a2fvc.apps.googleusercontent.com</string>
+</resources>
